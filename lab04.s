@@ -5,7 +5,7 @@
 
 maria:    .string "Maria"
 markos:   .string "Markos"
-marios:   .string "Marios"
+marios:   .string "Marioss"
 marianna: .string "Marianna"
 
 .align 4  # make sure the string arrays are aligned to words (easier to see in ripes memory view)
